@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1021496073675",
+    "firebase_url": "https://restaurant-package-booki-182ab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "restaurant-package-booki-182ab",
+    "storage_bucket": "restaurant-package-booki-182ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021496073675:android:8db9def8dc4d65531cea4e",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwrIUpNe_imQVK3O946HxwPZ1ktoexoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021496073675:android:f8af9d1771d229a91cea4e",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwrIUpNe_imQVK3O946HxwPZ1ktoexoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021496073675:android:9af727d3a486394b1cea4e",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_booking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKwrIUpNe_imQVK3O946HxwPZ1ktoexoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

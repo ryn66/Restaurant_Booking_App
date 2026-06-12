@@ -1,17 +1,25 @@
-# restaurant_booking_app
+# Restaurant Hall Booking System
 
-A new restaurant booking system
+A Flutter-based restaurant hall booking application.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- User Registration & Login
+- Firebase Authentication
+- Package Browsing
+- Package Search & Filter
+- Cart Management
+- Booking Management
+- Edit Booking
+- Cancel Booking
+- Firebase Firestore Database
+- Admin Management Panel
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
+- Provider
+- Go Router
+- Intl
